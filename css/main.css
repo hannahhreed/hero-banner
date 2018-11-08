@@ -18,6 +18,6 @@ h2 {
   background-color: rgba(0, 0, 0, .5);
 }
 
-header {
-  background-color: #e2e2e2;
+.img-flex {
+  max-height: 500px;
 }
